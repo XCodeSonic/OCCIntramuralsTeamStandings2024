@@ -86,7 +86,7 @@ const mlbbScores = {
 const codmScores = {
     teamA: { wins: 0, losses: 0 },
     teamB: { wins: 0, losses: 0 },
-    teamC: { wins: 4, losses: 0 }
+    teamC: { wins: 0, losses: 0 }
 };
 
 // Standings for Dota2
