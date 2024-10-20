@@ -89,6 +89,10 @@ th, td {
     text-align: center;
 }
 
+.td1 {
+    color: red;
+}
+
 th {
     background-color: #003190;
     color: white;
