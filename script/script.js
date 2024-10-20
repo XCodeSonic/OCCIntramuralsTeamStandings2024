@@ -79,7 +79,7 @@ const chessScores = {
 const mlbbScores = {
     teamA: { wins: 0, losses: 0 },
     teamB: { wins: 0, losses: 0 },
-    teamC: { wins: 3, losses: 0 }
+    teamC: { wins: 0, losses: 0 }
 };
 
 // Standings for CODM
@@ -92,7 +92,7 @@ const codmScores = {
 // Standings for Dota2
 const dota2Scores = {
     teamA: { wins: 0, losses: 0 },
-    teamB: { wins: 1, losses: 0 },
+    teamB: { wins: 0, losses: 0 },
     teamC: { wins: 0, losses: 0 }
 };
 
